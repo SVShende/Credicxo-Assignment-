@@ -8,3 +8,4 @@
 >using HTML parser (html.parser) the further parsing process is carried out 
 >all the dequired data is stored in dictionary whic is later dumped in Json file 
 >we also built a Try and expect condition so the  code does not beak until the iterarions are over  
+>Code take at most 7 mins to compleat all the iterations , each iteration being a saperate site to deal with  
